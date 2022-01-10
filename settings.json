@@ -1,0 +1,21 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": false,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6285345047847",
+	"ownerNumberr": "6285345047847",
+	"cr": "@FikkOfcོ",
+	"ownername": "FikkOfcོ",
+	"botname":"HINATABOTZ",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  HINATABOTZ  」\nCreated By @FikkOfcོ"
+}
